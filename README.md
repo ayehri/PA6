@@ -1,4 +1,4 @@
-# Programming Assignment 6
+# Programming Assignment 6 - MATLAB Programming in editor window
 
 ## Intended Learning Outcomes:
 1. To be able to differentiate a script file from a function file.
