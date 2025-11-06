@@ -79,3 +79,6 @@ files and function files.
 - evenvector = x(mod(x,2)==0): identifies all even numbers in x and stores them in evenvector.
 - oddvector = x(mod(x,2)==1): identifies the odd numbers in x and stores them in oddvector.
 - end: Marks the end of the function.
+
+## Conclusion
+In this programming assignment, I learned how to use MATLAB more effectively, including working through the Command Window and creating script and function files. In Problem 1, I created a function that classifies a conic section as a parabola, ellipse, or hyperbola by calculating its discriminant. In Problem 2, I applied the Law of Cosines to determine the length of a side in an oblique triangle. In Problem 3, I separated a vector into two groups: even numbers and odd numbers. I accomplished this using two methods, one with a loop and one without a loop, and both methods produced the same results. Overall, this assignment helped strengthen my understanding of writing functions, using conditional statements, and working with vectors in MATLAB.
